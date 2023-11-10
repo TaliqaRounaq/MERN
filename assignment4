@@ -1,0 +1,36 @@
+Q1.Difference between Framework and API.
+A framework and API(Application Programming Interface) are both tools used in software development.
+They play different roles and operate at different levels.
+FRAMEWORK:
+A framework is a structure upon which software can be constructed. It acts as a base, saving you from having to start from scratch. Frameworks are useful for a variety of activities and are usually linked to a particular programming language.
+Imagine that you are constructing a home. You might frame the house and pour the foundation yourself. You could accomplish that, but it would take a lot of time. However, you would save a good deal of work if all of it had already been completed for you, particularly if it had been done by knowledgeable home builders.
+Similar functions are performed by frameworks in software development. Because it was created and tested by other engineers and software developers, you can be sure the foundation is strong.
+WHY DO WE USE FRAMEWORK?
+By using frameworks, you may cut down on errors and save time. Since everything doesn't have to be written from scratch, there is less possibility of making mistakes. Furthermore, frameworks have undergone testing, so there's less cause for concern. Other benefits consist of:
+Stronger coding.
+Easier debugging and testing.
+Preventing redundant code.
+Code that is clear and flexible.
+Able to concentrate on writing project-specific code.
+Can be prolonged.
+API
+Application Programming Interface is referred to as API. Any software with a specific purpose might be referred to as an application in the context of APIs. An interface can be compared to a service agreement between two apps. The requests and replies that the two use to communicate with one another are outlined in this contract. Developers can find information on how to prepare those requests and responses in their API documentation.
+Q2.What is SEO?
+The term "search engine optimization" is SEO. Simply said, search engine optimization (SEO) is the act of making changes to your website so that it appears more prominently in Google, Microsoft Bing, and other search engines whenever someone searches for:
+Goods that you market.
+Services that you offer.
+Details on subjects in which you possess extensive knowledge and/or experience.
+Q3.ASCII character set VS UTF 8 character set VS UTF 16 character set.
+ASCII Character Set:
+The most popular character encoding format for text data on computers and the internet is called ASCII (American Standard Code for Information Interchange). There are distinct values for 128 alphabetic, numeric, or special extra characters, as well as control codes, in normal ASCII-encoded data.
+ASCII characters may be represented in the following ways:
+as pairs of hexadecimal digits -- base-16 numbers, represented as 0 through 9 and A through F for the decimal values of 10-15;
+as three-digit octal (base 8) numbers;
+as decimal numbers from 0 to 127; or
+as 7-bit or 8-bit binary.
+UTF 8 Character Set:
+UTF-8 stands for “Unicode Transformation Format -8 bits.
+UTF-8 is a variable-length character encoding standard used for electronic communication.UTF-8 is capable of encoding all 1,112,064[a] valid Unicode code points using one to four one-byte (8-bit) code units. Code points with lower numerical values, which tend to occur more frequently, are encoded using fewer bytes.
+UTF 16 Character Set:
+UTF-16 (16-bit Unicode Transformation Format) is a character encoding capable of encoding all 1,112,064 valid code points of Unicode (in fact this number of code points is dictated by the design of UTF-16).                                                                                                         
+                                                                                                        
